@@ -1,0 +1,17 @@
+CyberArk Safe,AD User,Delinea Secret Permissions,Delinea Folder Permissions,User/Group/Role
+Karan_Test2,srahman@lab.cyberark.local,List/View/Edit/Owner,View/Add Secret/Edit,User
+Karan_Test2,kvora@lab.cyberark.local,List/View/Edit/Owner,View/Add Secret/Edit/Owner,User
+Karan_Test2,Okta_SCIM,List/View/Edit/Owner,View/Add Secret,Role
+Karan_Test2,SCIM Client,List/View/Edit,View/Add Secret/Edit/Owner,Role
+Karan_Test2,dhasarpota@lab.cyberark.local,List/View/Edit,View/Add Secret/Edit,User
+Karan_Test3,srahman@lab.cyberark.local,List/View/Edit,View/Add Secret,User
+Karan_Test3,kvora@lab.cyberark.local,List/View,View/Add Secret/Edit/Owner,User
+Karan_Test3,Okta_SCIM,List/View,View/Add Secret,Role
+Karan_Test3,SCIM Client,List,View/Add Secret/Edit/Owner,Role
+Karan_Test3,dhasarpota@lab.cyberark.local,List/View,View/Add Secret/Edit,User
+Karan_Test2,test@test.com,List,View/Add Secret/Edit/Owner,User
+Karan_Test2,test@test.com,List,View/Add Secret/Edit/Owner,Role
+Karan_Test,srahman@lab.cyberark.local,List,View/Add Secret/Edit,User
+Karan_Test,Okta_SCIM,List,View/Add Secret,Role
+Karan_Test,SCIM Client,List,View/Add Secret/Edit,Role
+Karan_Test,dhasarpota@lab.cyberark.local,List/View/Edit/Owner,View/Add Secret/Edit/Owner,User
